@@ -5,4 +5,8 @@ https://lake-papyrus-92e.notion.site/Docker-Commands-f382c9230d8d4e1d86b61294878
 #Versions
 ### v0.2.0
 - [x]  push my index.html to docker hub
-ref: https://hub.docker.com/r/bbanque/nginx-my-html/tags
+<br>ref: https://hub.docker.com/r/bbanque/nginx-my-html/tags
+### v0.3.0
+- [x] deploy to fly.io
+### v0.4.0
+- [ ] deploy parc02.blog to fly.io
