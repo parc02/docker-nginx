@@ -7,7 +7,7 @@ app = 'ms-docker-nginx'
 primary_region = 'nrt'
 
 [build]
-image="nginx"
+image="ms-nginx-my-html:0.3.0"
 
 [http_service]
   internal_port = 80
